@@ -1,0 +1,6 @@
+Product_ID, Product_Name, Category, Price, Stock
+1001, Wireless Mouse, Electronics, 25.99, 150
+1002, Mechanical Keyboard, Electronics, 89.50, 85
+1003, Coffee Mug, Home Goods, 12.00, 300
+1004, Ergonomic Chair, Office, 199.99, 20
+1005, Desk Lamp, Office, 34.50, 60

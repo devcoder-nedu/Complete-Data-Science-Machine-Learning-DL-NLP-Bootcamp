@@ -1,0 +1,10 @@
+2026-03-26 14:00:01 [INFO] Server application started on port 8080.
+2026-03-26 14:00:05 [INFO] Connecting to database at db-host:5432...
+2026-03-26 14:00:06 [INFO] Database connection established successfully.
+2026-03-26 14:15:22 [WARNING] High latency detected on /api/v1/users endpoint.
+2026-03-26 14:16:01 [ERROR] NullPointerException in UserService at line 42.
+2026-03-26 14:20:00 [INFO] User login successful for id=9482.
+2026-03-26 14:45:12 [ERROR] Connection timeout while communicating with payment gateway.
+2026-03-26 15:00:00 [INFO] Scheduled background task 'data_cleanup' completed.
+[SEVERITY] THIS MAY CRASH
+[SEVERITY] THIS MAY CRASH
